@@ -1,6 +1,6 @@
 # catzone
 
-A new Flutter project.
+A Cat pet store to Buy your favourite pet UI with some functionality.
 
 ## Getting Started
 
